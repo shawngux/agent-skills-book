@@ -1,0 +1,39 @@
+{
+  "bindings": [
+    {
+      "agentId": "leader",
+      "match": {
+        "channel": "feishu",
+        "accountId": "leader"
+      }
+    },
+    {
+      "agentId": "pm",
+      "match": {
+        "channel": "feishu",
+        "accountId": "pm"
+      }
+    },
+    {
+      "agentId": "ux",
+      "match": {
+        "channel": "feishu",
+        "accountId": "ux"
+      }
+    },
+    {
+      "agentId": "dev",
+      "match": {
+        "channel": "feishu",
+        "accountId": "dev"
+      }
+    },
+    {
+      "agentId": "ops",
+      "match": {
+        "channel": "feishu",
+        "accountId": "ops"
+      }
+    }
+  ]
+}

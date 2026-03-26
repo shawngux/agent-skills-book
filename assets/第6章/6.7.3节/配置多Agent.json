@@ -1,0 +1,32 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "leader",
+        "default": true,
+        "name": "主管",
+        "workspace": "~/.openclaw/workspace"
+      },
+      {
+        "id": "pm",
+        "name": "产品",
+        "workspace": "~/.openclaw/workspace-pm"
+      },
+      {
+        "id": "ux",
+        "name": "设计",
+        "workspace": "~/.openclaw/workspace-ux"
+      },
+      {
+        "id": "dev",
+        "name": "开发",
+        "workspace": "~/.openclaw/workspace-dev"
+      },
+      {
+        "id": "ops",
+        "name": "运营",
+        "workspace": "~/.openclaw/workspace-ops"
+      }
+    ]
+  }
+}

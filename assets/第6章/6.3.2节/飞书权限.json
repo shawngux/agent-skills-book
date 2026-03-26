@@ -1,0 +1,30 @@
+{
+  "scopes": {
+    "tenant": [
+      "im:message",
+      "im:message.p2p_msg:readonly",
+      "im:message.group_at_msg:readonly",
+      "im:message:send_as_bot",
+      "im:resource",
+      "contact:user.base:readonly",
+      "im:message.group_msg",
+      "im:message:readonly",
+      "im:message:update",
+      "im:message:recall",
+      "im:message.reactions:read",
+      "docx:document:readonly",
+      "drive:drive:readonly",
+      "wiki:wiki:readonly",
+      "bitable:app:readonly",
+      "task:task:read",
+      "contact:contact.base:readonly",
+      "docx:document",
+      "docx:document.block:convert",
+      "drive:drive",
+      "wiki:wiki",
+      "bitable:app",
+      "task:task:write"
+    ],
+    "user": []
+  }
+}

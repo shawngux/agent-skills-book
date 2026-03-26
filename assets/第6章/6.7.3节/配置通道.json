@@ -1,0 +1,33 @@
+{
+  "channels": {
+    "feishu": {
+      "enabled": true,
+      "defaultAccount": "leader",
+      "dmPolicy": "open",
+      "allowFrom":["*"],
+      "groupPolicy": "open",
+      "accounts": {
+        "leader": {
+          "appId": "<替换为leader应用的App ID>",
+          "appSecret": "<替换为leader应用的App Secret>"
+        },
+        "pm": {
+          "appId": "<替换为pm应用的App ID>",
+          "appSecret": "<替换为pm应用的App Secret>"
+        },
+        "ux": {
+          "appId": "<替换为ux应用的App ID>",
+          "appSecret": "<替换为ux应用的App Secret>"
+        },
+        "dev": {
+          "appId": "<替换为dev应用的App ID>",
+          "appSecret": "<替换为dev应用的App Secret>"
+        },
+        "ops": {
+          "appId": "<替换为ops应用的App ID>",
+          "appSecret": "<替换为ops应用的App Secret>"
+        }
+      }
+    }
+  }
+}

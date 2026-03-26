@@ -1,0 +1,14 @@
+{
+  "tools": {
+    "agentToAgent": {
+      "enabled": true,
+      "allow": [
+        "leader",
+        "pm",
+        "ux",
+        "dev",
+        "ops"
+      ]
+    }
+  }
+}
