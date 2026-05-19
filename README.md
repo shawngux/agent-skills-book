@@ -81,10 +81,17 @@ agent-skills-book/
 
 ![Screenshot](images/agentskills/dark-theme.png)
 
+###### 预览
+
+![Screenshot](images/agentskills/dark-guide.png)
+
 ##### 亮色主题
 
 ![Screenshot](images/agentskills/light-theme.png)
 
+###### 预览
+
+![Screenshot](images/agentskills/light-guide.png)
 
 ### OpenClaw 5 天快速入门指南
 
@@ -96,6 +103,14 @@ agent-skills-book/
 
 ![Screenshot](images/openclaw/dark-theme.png)
 
+###### 预览
+
+![Screenshot](images/openclaw/dark-guide.png)
+
 ##### 亮色主题
 
 ![Screenshot](images/openclaw/light-theme.png)
+
+###### 预览
+
+![Screenshot](images/openclaw/light-guide.png)
