@@ -15,12 +15,12 @@ agent-skills-book/
 
 ### 📜目录文件说明
 
-- ##### assets：书中涉及到的代码和提示词
-- ##### docs：书中涉及到的实操教程更新以及拓展教程
-- ##### images：常规图片资源
-- ##### skills：书中涉及到的技能（Skills）
-- ##### reference.md：书中涉及到软件及工具来源，更多可参考的学习渠道
-- ##### README.md：说明
+- assets：书中涉及到的代码和提示词
+- docs：书中涉及到的实操教程更新以及拓展教程
+- images：常规图片资源
+- skills：书中涉及到的技能（Skills）
+- reference.md：书中涉及到软件及工具来源，更多可参考的学习渠道
+- README.md：说明
 
 
 ## 🔖书籍目录
