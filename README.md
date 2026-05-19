@@ -114,3 +114,7 @@ agent-skills-book/
 ###### 预览
 
 ![Screenshot](images/openclaw/light-guide.png)
+
+---
+
+> 注：本仓库也会在一段时间内保持一定的更新，祝您学习愉快！
