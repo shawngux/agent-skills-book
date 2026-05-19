@@ -69,6 +69,29 @@ agent-skills-book/
 ##### 7.4 AI时代的能力重塑与未来机遇
 
 
+## 网站指南
+
+#### Agent Skills 5 天快速入门指南
+
+在线访问：https://agentskills.guide101.top
+
+##### 暗黑主题
+
+![Screenshot](images/agentskills/dark-theme.png)
+
+##### 亮色主题
+
+![Screenshot](images/agentskills/light-theme.png)
 
 
-> 注：本仓库会一段时间内持续更新关于 Agent Skills 和 OpenClaw 相关内容
+#### OpenClaw 5 天快速入门指南
+
+在线访问：https://openclaw.guide101.top
+
+##### 暗黑主题
+
+![Screenshot](images/openclaw/dark-theme.png)
+
+##### 亮色主题
+
+![Screenshot](images/openclaw/light-theme.png)
