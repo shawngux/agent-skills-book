@@ -18,11 +18,13 @@
 ## Skills资源渠道
 
 - https://github.com/anthropics/skills
+- https://github.com/anthropics/claude-cookbooks/tree/main/skills
 - https://skillsmp.com/zh
 - https://skills.sh
 - https://github.com/ComposioHQ/awesome-claude-skills
 - https://github.com/anthropics/skills
 - https://clawhub.ai/skills
+- https://skillhub.cn/skills
 
 
 ## OpenClaw
