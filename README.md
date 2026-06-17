@@ -1,5 +1,9 @@
 # 📘《图解Agent Skills：从零构建AI技能库与多场景实战》配套资源仓库
 
+![Screenshot](images/agentskills.jpg)
+
+- 京东购买链接：https://item.m.jd.com/product/15379466.html
+
 ### 🗂️仓库目录结构
 
 ```markdown
