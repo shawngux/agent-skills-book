@@ -1,4 +1,4 @@
-# 📘《图解Agent Skills：扣子与OpenClaw“龙虾”实战》配套资源仓库
+# 📘《图解Agent Skills：从零构建AI技能库与多场景实战》配套资源仓库
 
 
 ### 🗂️仓库目录结构
